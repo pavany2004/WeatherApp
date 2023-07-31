@@ -1,12 +1,12 @@
 # WeatherApp
-WeatherApp is a simple yet powerful weather application that provides real-time weather forecasts and conditions for any location in the world.
+WeatherApp is a simple yet powerful weather application that provides real-time weather forecasts and conditions for any location in the India.
 With an intuitive user interface and accurate data, WeatherApp helps users stay informed about current weather conditions,
 upcoming forecasts, and more.
 
 
 # Key Features
 
-Real-Time Weather Updates: WeatherApp fetches data from reliable weather APIs to provide up-to-date weather information for any selected location. Users can instantly view the current temperature, humidity, wind speed, and weather conditions.
+Real-Time Weather Updates: WeatherApp fetches data from reliable weather APIs to provide up-to-date weather information for any selected location. Users can instantly view the current temperature, pressure, weather, and weather conditions.
 
 Location-Based Forecast: Users can either search for a specific location or allow the app to access their device's location to fetch weather information automatically.
 
